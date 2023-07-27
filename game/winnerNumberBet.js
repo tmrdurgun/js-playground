@@ -3,7 +3,7 @@
     Game rules:
     1. you need a ticket to start,
     2. you have more chance if you buy more tickets
-    3. find the winner number between 0 - 100 
+    3. find the winner number between example: 0 - 100 (defined in game options)
 */
 
 class WinnerNumberBet {
